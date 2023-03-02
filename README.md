@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anuragbhanbewaal
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on any productive work
 - 📫 How to reach me  anurag.bhanbewaal@gmail.com
 
 <!---
